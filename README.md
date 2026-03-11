@@ -5,7 +5,7 @@ mendoza2026, técnicas y herramientas modernas
 
 *Ejercicio 2:* Creacion de un archivo html en forma manual
 
-*Ejercicio 3:* Crear un archivo LATAex en <https://overleaf.com>
+*Ejercicio 3:* Crear un archivo LATex en <https://overleaf.com>
 
 *Ejercicio 4:* Creacion de notebooks 
 

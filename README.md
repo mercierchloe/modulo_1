@@ -12,3 +12,12 @@ mendoza2026, técnicas y herramientas modernas
 *Ejercicio 5:* Creacion de un CV en LATex
 
 *Ejercicio 6:* Creacion de un archivo en metadatos en el entorno R
+
+----
+pour faire un tableau en markdown :
+|Right|Left|Default|Center|
+|----:|:---|-------|:-----| 
+|1|1|1|1|
+
+
+(ca centre ou décale voir noms des colonnes et ca le fait pour toute la colonne)
